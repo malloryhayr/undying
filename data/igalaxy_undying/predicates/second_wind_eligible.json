@@ -1,0 +1,9 @@
+{
+	"condition": "minecraft:entity_scores",
+	"entity": "this",
+	"scores": {
+		"igy_undying_health": {
+			"min": 15
+		}
+	}
+}

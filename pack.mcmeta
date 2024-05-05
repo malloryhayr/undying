@@ -2,8 +2,7 @@
 	"pack": {
 		"pack_format": 42,
 		"description": [
-			{ "color": "#ff1313", "text": "Undying" },
-			{ "color": "#bb1313", "text": " by igalaxy" },
+			{ "color": "#ff1313", "text": "igalaxy's Undying" },
 			{ "color": "gray", "text": "\nv1.0 for Minecraft 1.21" }
 		]
 	}

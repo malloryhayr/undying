@@ -1,0 +1,33 @@
+{
+	"anvil_cost": 4,
+	"description": {
+		"text": "Blessing"
+	},
+	"effects": {
+		"minecraft:attributes": [
+			{
+				"amount": {
+					"type": "minecraft:linear",
+					"base": 5,
+					"per_level_above_first": 5
+				},
+				"attribute": "minecraft:generic.max_health",
+				"name": "enchantment.blessing",
+				"operation": "add_value",
+				"uuid": "4359224f-574e-4b21-8fc9-f2040e78d30e"
+			}
+		]
+	},
+	"max_cost": {
+		"base": 40,
+		"per_level_above_first": 10
+	},
+	"max_level": 4,
+	"min_cost": {
+		"base": 10,
+		"per_level_above_first": 10
+	},
+	"slots": ["chest"],
+	"supported_items": "#minecraft:enchantable/chest_armor",
+	"weight": 2
+}
