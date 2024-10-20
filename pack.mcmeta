@@ -4,7 +4,7 @@
 		"supported_formats": [42, 48],
 		"description": [
 			{ "color": "#ff1313", "text": "igalaxy's Undying" },
-			{ "color": "gray", "text": "\nv1.0 for Minecraft 1.21" }
+			{ "color": "gray", "text": "\nv1.0.0-pre1 for Minecraft 1.21.1" }
 		]
 	}
 }
